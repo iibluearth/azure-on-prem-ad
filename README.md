@@ -1,4 +1,4 @@
-# configure-ad
+# azure-on-prem-ad
 <p align="center">
 <img src="https://i.imgur.com/9Fezpa3.png" alt="osTicket logo"/>
 </p>
