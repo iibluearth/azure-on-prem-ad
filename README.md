@@ -131,11 +131,15 @@ Step 5:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KhyqLsJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H2IAFBf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/iKlWTag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Step 6:
 
@@ -145,15 +149,15 @@ Step 6:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PWecxFu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WvIgLu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f9gHS6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7:
@@ -163,43 +167,48 @@ Step 7:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/III1oLy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5LJVUZI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/420RIIA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8IOC6rB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8:
 
-- Inside the "_ADMINS" OU, create a new user named "Jane Doe" with the username "jane_admin" and password "Password1".
+- Inside the "_ADMINS" OU, create a new user named "Jane Doe" with the username "jane_admin" and password "Labpassword1".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/krNy4Kr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d82nogO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f6y5DjR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r2B2QWf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+ <p>
+<img src="https://i.imgur.com/DSCCNlq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 9:
@@ -210,20 +219,20 @@ Step 9:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/du32djo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QCQsOBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cuS89TN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dDuxKL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 10:
@@ -235,11 +244,15 @@ Step 10:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BCfAJ9v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IM6vt6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/aZ66wKp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Step 11:
 
@@ -249,15 +262,15 @@ Step 11:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u7wTv0M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3P5hn1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/trVMuvB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 12:
@@ -267,15 +280,24 @@ Step 12:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p>
+<img src="https://i.imgur.com/DUc8zQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/ukOmJUw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SCerl7s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/51F5T6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/QUj20XH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 13:
@@ -285,12 +307,16 @@ Step 13:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9e3bN39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/LXJNn2r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 14:
 
-- Log in to Client-1 with the newly created user account "bob.builder".
+- Log in to Client-1 with the newly created user account "kayla.mann".
 - Confirm the ability to create and configure admins and users within Active Directory.
 </p>
 <br />
