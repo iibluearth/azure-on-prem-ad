@@ -29,11 +29,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
  <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aveAGRa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bo4CFXq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1:
@@ -48,11 +48,11 @@ Step 1:
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3pYnYId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gk6urA5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 2:
@@ -65,11 +65,11 @@ Step 2:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HpU6tLh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eDMC4Ep.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 3:
@@ -84,17 +84,22 @@ Step 3:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aDCPLvU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zvQ6T2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rM70roH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ <p>
+<img src="https://i.imgur.com/uDibUIU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
 Step 4:
 
 - Log in to the DC-1 VM.
@@ -106,15 +111,15 @@ Step 4:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S9cQXuy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8etv9BT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NEl3jbV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 5:
