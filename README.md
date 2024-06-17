@@ -125,7 +125,7 @@ Step 4:
 Step 5:
 
 - In the configuration wizard, choose "Add a new forest" and enter "mydomain.com" as the domain name.
-- Set the password to "Password1" and complete the installation process.
+- Set the password to "Labpassword1" and complete the installation process.
 - Wait for the VM to restart.
 </p>
 <br />
