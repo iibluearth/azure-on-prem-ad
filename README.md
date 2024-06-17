@@ -88,6 +88,11 @@ Step 3:
 </p>
 <p>
  <p>
+  <p>
+<img src="https://i.imgur.com/DUc8zQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
 <img src="https://i.imgur.com/zvQ6T2K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -185,7 +190,7 @@ Step 7:
 <p>
 Step 8:
 
-- Inside the "_ADMINS" OU, create a new user named "Jane Doe" with the username "jane_admin" and password "Labpassword1".
+- Inside the "_ADMINS" (OU), create a new user named "Jane Doe" with the username "jane_admin" and password "Labpassword1".
 </p>
 <br />
 
